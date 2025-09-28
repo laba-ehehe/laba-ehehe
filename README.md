@@ -27,7 +27,7 @@ I’m a UF Computer Engineering + Economics student who bridges **PM ↔ SWE**: 
   </a>
   &nbsp;&nbsp;
   <a href="tel:+15618513967" aria-label="Phone">
-    <img alt="Call"
+    <img alt="Phone"
          src="https://img.shields.io/badge/CALL-2E8B57?style=for-the-badge&logo=phone&logoColor=white">
   </a>
 </p>
