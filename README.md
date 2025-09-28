@@ -25,10 +25,10 @@ I’m a UF Computer Engineering + Economics student who bridges **PM ↔ SWE**: 
 ---
 
 ## 🛠️ Skills
-**Product & Data:** PRDs · roadmapping · user research · A/B testing · SQL · dashboards (GA4/Mixpanel)  
-**Engineering:** Python · C++ · JavaScript/TypeScript · SQL · MATLAB  
+**Product & Data:** Agile/Scrum · PRDs · product roadmapping · user research · A/B testing · SQL · analytics dashboards (Mixpanel)  
+**Programming Languages:** Python · C++ · Java · JavaScript/TypeScript · SQL · R · MATLAB · VHDL · Assembly · HTML/css
 **Frameworks/Libraries:** React · Node/Express · Flask · scikit-learn · PyTorch · pandas · NumPy  
-**Tools:** Git/GitHub · Docker · Firebase · MongoDB · Figma · Jira/Confluence · Arduino/Raspberry Pi
+**Tools:** Git/GitHub · Docker · Kubernetes · Firebase · MongoDB · Jenkins · Bazel · JIRA · Power BI · Mixpanel · Google Analytics · Figma · Jira/Confluence · Arduino/Raspberry Pi
 
 ---
 
