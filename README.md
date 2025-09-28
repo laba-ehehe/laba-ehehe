@@ -3,10 +3,25 @@
 
 <img align="right" src="assets/pixel-lan-anh.png" width="170" alt="Lan Anh pixel avatar" />
 
-I’m a UF Computer Engineering + Economics student who enjoys building ML-powered, full-stack, and systems projects.
+I’m a UF Computer Engineering + Economics student who builds ML-powered, full-stack, and systems projects.
 
+---
+
+## 🌸 Get to know me!
+- Computer Engineering (B.S.) + Economics (B.A.) @ UF
+- Certificates: AI Fundamentals & Applications, Project Management
+- Interests: ML for products · full-stack (React/Express) · embedded/systems
+
+## 🌐 Contact
 <a href="https://www.linkedin.com/in/lananhnguyendo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff"></a>
 <a href="mailto:lananhdo2905@gmail.com"><img src="https://img.shields.io/badge/Email-lananhdo2905%40gmail.com-EA4335?logo=gmail&logoColor=fff"></a>
+
+---
+
+## 🛠️ Skills
+**Languages:** Python · C++ · JavaScript/TypeScript · SQL · MATLAB  
+**Frameworks/Libraries:** React · Node/Express · Flask · scikit-learn · PyTorch · pandas · NumPy  
+**Tools:** Git/GitHub · Docker · Firebase · MongoDB · Figma · Arduino/Raspberry Pi
 
 ---
 
@@ -17,7 +32,7 @@ I’m a UF Computer Engineering + Economics student who enjoys building ML-power
   Repo: https://github.com/laba-ehehe/**TODO-set-dumpy**
 - **Copycat** — Chrome extension to capture job postings/notes/deadlines *(JS · MV3)*  
   Repo: https://github.com/laba-ehehe/copycat
-- **Erica Virtual Human** — Tutoring chatbot with lip-synced video delivery *(Python/Flask · FFmpeg)*  
+- **Erica Virtual Human** — Tutoring chatbot with lip-synced video *(Python/Flask · FFmpeg)*  
   Repo: https://github.com/laba-ehehe/**TODO-erica**
 
 ## 🧠 ML projects
@@ -31,15 +46,7 @@ I’m a UF Computer Engineering + Economics student who enjoys building ML-power
 ---
 
 ## 💼 Internship experience
-- **SWE/Data Science Intern — AltaScient** *(Python · PyTorch · SQL · FastAPI · Docker)*  
-  Built data/feature pipelines and an API-served NN prototype for risk analytics.
-- **PM Intern — MoMo (M_Service)** *(Bazel · Jenkins · SQL · Jira)*  
-  Streamlined build/CI for lending platform; prioritized features with data insights.
-- **PM Intern — Nami Technology** *(Flask · scikit-learn · NoSQL · Figma)*  
-  Shipped conversation-analysis tool and delivered UX improvements for clients.
-- **Research Intern — Fudan ISTBI (Neuroengineering)** *(Python · LFP)*  
-  Processed neural signals and explored biomarkers for Parkinson’s studies.
-
----
-
-**Stack:** Python · C++ · JavaScript/TypeScript · SQL · React · Node/Express · Flask · scikit-learn · PyTorch · pandas · Git/Docker · Firebase · Figma
+- **SWE/Data Science Intern — AltaScient** *(Python · PyTorch · SQL · FastAPI · Docker)* — built data/feature pipelines and an API-served NN prototype for risk analytics.  
+- **PM Intern — MoMo (M_Service)** *(Bazel · Jenkins · SQL · Jira)* — streamlined build/CI for lending platform; prioritized features using data insights.  
+- **PM Intern — Nami Technology** *(Flask · scikit-learn · NoSQL · Figma)* — shipped conversation-analysis tool and delivered UX improvements for clients.  
+- **Research Intern — Fudan ISTBI** *(Python · LFP)* — processed neural signals and explored biomarkers for Parkinson’s studies.
