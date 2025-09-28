@@ -1,4 +1,4 @@
-<!-- Profile README for Lan Anh Do -->
+<img width="468" height="89" alt="image" src="https://github.com/user-attachments/assets/c2d79140-0bb6-42f4-ad47-3a1d1a73c301" /><!-- Profile README for Lan Anh Do -->
 <h1>Hi there — I’m Lan Anh! 👋</h1>
 
 <!-- Right-side avatar (optional: add assets/pixel-lan-anh.png) -->
@@ -26,9 +26,9 @@ I’m a UF Computer Engineering + Economics student who builds ML-powered, full-
 ---
 
 ## 🛠️ Skills
-**Languages:** Python · C++ · JavaScript/TypeScript · SQL · MATLAB  
-**Frameworks/Libraries:** React · Node/Express · Flask · scikit-learn · PyTorch · pandas · NumPy  
-**Tools:** Git/GitHub · Docker · Firebase · MongoDB · Figma · Arduino/Raspberry Pi
+**Languages:** Python · C++ · Java · JavaScript/TypeScript · SQL · R · MATLAB · VHDL · Assembly · HTML/CSS 
+**Frameworks/Libraries:** React · Node/Express · Flask · TensorFlow · Scikit-learn · pandas · NumPy  
+**Tools:** Git/GitHub · Docker · Kubernetes · Firebase · MongoDB · Jenkins · Bazel · JIRA · Power BI · Mixpanel · Google Analytics · Figma · Arduino/Raspberry Pi
 
 ---
 
@@ -37,7 +37,7 @@ I’m a UF Computer Engineering + Economics student who builds ML-powered, full-
   Repo: https://github.com/laba-ehehe/**chompcourse**  <!-- replace with exact slug if different -->
 - **SET Dumpy** — Mobile robot for debris detection/pickup *(Python/OpenCV · Arduino · LiDAR)*  
   Repo: https://github.com/laba-ehehe/**set-dumpy**
-- **Copycat** — Chrome extension to capture job postings/notes/deadlines *(JS · MV3)*  
+- **Copycat** — Chrome extension to capture job postings/notes/deadlines *(JavaScript · MV3)*  
   Repo: https://github.com/laba-ehehe/copycat
 - **Erica Virtual Human** — Tutoring chatbot with lip-synced video *(Python/Flask · FFmpeg)*  
   Repo: https://github.com/laba-ehehe/**erica-virtual-human**
@@ -45,7 +45,7 @@ I’m a UF Computer Engineering + Economics student who builds ML-powered, full-
 ## 🧠 ML projects
 - **Supermarket Sales** — regression + classification pipeline *(scikit-learn · pandas)*  
   Repo: https://github.com/laba-ehehe/**supermarket-ml**
-- **Image Classification** — CNN baseline → improved model *(PyTorch)*  
+- **Image Classification** — CNN baseline → improved model *(TensorFlow)*  
   Repo: https://github.com/laba-ehehe/**image-cnn**
 - **Satellite Ship Detection** — DR (PCA/Isomap) + RF/SVM *(scikit-learn)*  
   Repo: https://github.com/laba-ehehe/**ship-detection**
@@ -53,7 +53,7 @@ I’m a UF Computer Engineering + Economics student who builds ML-powered, full-
 ---
 
 ## 💼 Internship experience
-- **SWE/Data Science Intern — AltaScient** *(Python · PyTorch · SQL · FastAPI · Docker)* — built data/feature pipelines and an API-served NN prototype for risk analytics.  
-- **PM Intern — MoMo (M_Service)** *(Bazel · Jenkins · SQL · Jira)* — streamlined build/CI for lending platform; prioritized features with data insights.  
-- **PM Intern — Nami Technology** *(Flask · scikit-learn · NoSQL · Figma)* — shipped conversation-analysis tool and UX improvements for clients.  
-- **Research Intern — Fudan ISTBI** *(Python · LFP)* — processed neural signals and explored biomarkers for Parkinson’s studies.
+- **SWE/Data Science Intern — AltaScient** *(Python · PyTorch · SQL · FastAPI · Docker)* — built data/feature pipelines and an API-served NN prototype for risk analytics
+- **PM Intern — MoMo (M_Service)** *(Bazel · Jenkins · SQL · Jira)* — streamlined build/CI for lending platform; prioritized features with data insights
+- **PM Intern — Nami Technology** *(Flask · scikit-learn · NoSQL · Figma)* — shipped conversation-analysis tool and UX improvements for clients
+- **Research Intern — Fudan ISTBI** *(Python · LFP)* — processed neural signals and explored biomarkers for Parkinson’s studies
