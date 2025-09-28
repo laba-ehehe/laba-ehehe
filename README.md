@@ -1,5 +1,5 @@
 <!-- Profile README for Lan Anh Do -->
-<h1>Hi there — I’m Lan Anh! 👋</h1>
+<h1>Hi friends — I’m Lan Anh! 👋</h1>
 
 <img align="right" src="avatar.png" width="300" alt="Lan Anh pixel avatar" />
 
