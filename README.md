@@ -3,7 +3,7 @@
 
 <img align="right" src="avatar.png" width="300" alt="Lan Anh pixel avatar" />
 
-I’m a UF Computer Engineering + Economics student who bridges **PM ↔ SWE**: I turn fuzzy problems into clear **PRDs/MVPs**, then build the backend/front-end/ML pieces, instrument metrics, and iterate with quick experiments.
+I’m a UF Computer Engineering + Economics student who bridges **PM ↔ SWE**: I turn fuzzy problems into clear **PRDs/MVPs**, then build the backend/front-end/ML pieces, instrument metrics, and iterate with quick experiments :DDD
 
 ---
 
@@ -15,12 +15,18 @@ I’m a UF Computer Engineering + Economics student who bridges **PM ↔ SWE**: 
 - Fun fact: matcha latte/boba addict 🧋 and learning crochet 🧶
 
 ## 🌸 Contact me
-<a href="https://www.linkedin.com/in/lananhnguyendo/">
-  <img src="https://img.shields.io/badge/LINKED%20IN-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:lananhdo2905@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?logo=gmail&logoColor=white" alt="Email" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/lananhnguyendo/" aria-label="LinkedIn">
+    <img alt="LinkedIn"
+         src="https://img.shields.io/badge/LINKED%20IN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:lananhdo2905@gmail.com" aria-label="Email">
+    <img alt="Email"
+         src="https://img.shields.io/badge/EMAIL-FF69B4?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
 
 ---
 
