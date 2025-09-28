@@ -1,7 +1,7 @@
-<!-- Profile README for Lan Anh Do (@laba-ehehe) -->
-<h1>Hi friends — I’m Lan Anh! 👋</h1>
+<!-- Profile README for Lan Anh Do -->
+<h1>Hi there — I’m Lan Anh! 👋</h1>
 
-<!-- Right-side avatar (drop an image at assets/pixel-lan-anh.png) -->
+<!-- Right-side avatar (optional) -->
 <img align="right" src="assets/pixel-lan-anh.png" width="190" alt="Lan Anh pixel avatar" />
 
 I’m a Computer Engineering + Economics student at the University of Florida who loves building
@@ -11,75 +11,99 @@ ML-powered products, full-stack web, and embedded systems.
 ---
 
 ## 🌸 Get to know me!
-- Computer Engineering (B.S.) + Economics (B.A.) @ UF; certificates in **AI Fundamentals & Applications** and **Project Management**
-- Strongest languages: **Python**, **C++**, **JavaScript/TypeScript**
-- Interests: **ML for products**, **full-stack (React/Express)**, **systems & embedded**
-- Roles I enjoy: taking 0→1 ideas to MVP, mentoring peers, and polishing UX
-- Pronouns: _she/her_ • Fun facts: matcha latte addict 🧋 and learning crochet 🧶
+- **UF**: Computer Engineering (B.S.) + Economics (B.A.) · Certificates in **AI Fundamentals & Applications** and **Project Management**
+- **Languages**: Python · C++ · JavaScript/TypeScript · SQL · Assembly
+- **Interests**: ML for products · full-stack (React/Express) · embedded/systems
+- **Fun**: matcha latte/boba enthusiast 🧋 · learning crochet 🧶
 
 ---
 
 ## 🌐 Contact me
 <a href="https://www.linkedin.com/in/lananhnguyendo/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn badge">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:lananhdo2905@gmail.com">
-  <img src="https://img.shields.io/badge/Email-lananhdo2905%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email badge">
+  <img src="https://img.shields.io/badge/Email-lananhdo2905%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email">
 </a>
 
 ---
 
 ## ⭐ Top projects
 
-- **Moodify** — React + Express + Spotify OAuth/PKCE  
-  ▶︎ <a href="https://moodify-orpin.vercel.app">Live demo</a> • <a href="https://github.com/laba-ehehe/moodify">GitHub</a>  
-  <sub>Generates mood-aware playlists and visualizes audio features.</sub>
+- **ChompCourse** — Full-stack UF degree planner (Flask · React · Firebase · Expo)  
+  🔗 _Repo:_ https://github.com/laba-ehehe/**TODO-ChompCourse** · _Demo:_ **TODO**  
+  <sub>Generates semester-by-semester roadmaps using catalog data and prerequisite graphs; helps students plan faster with fewer mistakes.</sub>
 
-- **Erica Virtual Human** — NLP + synchronized video prototype  
-  <a href="https://github.com/laba-ehehe/Erica-Virtual-Human">GitHub</a>  
-  <sub>Conversational agent with coordinated avatar/video responses.</sub>
+- **SET Dumpy** — CV + SLAM trash-detection robot (Python/OpenCV · Arduino · LiDAR)  
+  🔗 _Repo:_ https://github.com/laba-ehehe/**TODO-dumpy-robot** · _Video:_ **TODO**  
+  <sub>Mobile robot that locates and collects debris using object detection and mapping; tuned control loops and sensor fusion for reliability.</sub>
 
-- **Copycat** — Chrome extension for job-app link management  
-  <a href="https://github.com/laba-ehehe/copycat">GitHub</a>  
+- **Copycat** — Chrome extension for job-app link management (JS/Manifest V3)  
+  🔗 _Repo:_ https://github.com/laba-ehehe/**copycat** · _Chrome store (optional):_ **TODO**  
   <sub>One-click capture of postings, notes, and deadlines to keep recruiting organized.</sub>
 
-- **CYOBot** — C++/SFML game project  
-  <a href="https://github.com/laba-ehehe/CYOBot-Project">GitHub</a>  
-  <sub>Choose-your-own adventure gameplay; handled frontend/game logic.</sub>
+- **Erica Virtual Human** — NLP + deepfake-synced video responses (Python · Flask · FFmpeg)  
+  🔗 _Repo:_ https://github.com/laba-ehehe/**TODO-erica-virtual-human**  
+  <sub>Prototype virtual human that takes text/audio input, generates a response, and syncs it to a talking-head video for more natural interactions.</sub>
+
+### 🧠 Selected ML projects
+- **Supermarket Sales Analytics** — regression + classification (scikit-learn, pandas)  
+  🔗 _Repo:_ https://github.com/laba-ehehe/**TODO-supermarket-ml**  
+  <sub>End-to-end workflow: cleaning, EDA, feature engineering, model selection, metrics, and a short paper in IEEE format.</sub>
+
+- **Risk Analytics Pipeline (Prototype)** — time-series & anomaly detection (PyTorch, NumPy)  
+  🔗 _Repo:_ https://github.com/laba-ehehe/**TODO-risk-analytics**  
+  <sub>Builds a modular training/inference pipeline for risk scoring; emphasizes reproducible experiments and clear evaluation.</sub>
+
+- **Image Classification (CNN)** — custom dataset baseline → improved model (PyTorch)  
+  🔗 _Repo:_ https://github.com/laba-ehehe/**TODO-image-cnn**  
+  <sub>Starts with a simple CNN baseline, adds data augmentation and regularization, and tracks gains with clean ablation notes.</sub>
+
+> Want more? See **More Projects** below for extra repos and class builds.
 
 ---
 
-## 📚 Course & algorithms
+## 💼 Internship experience
 
-- **Simplified PageRank (C++)** — <a href="https://github.com/laba-ehehe/COP3530---Simplified-PageRank-Algorithm">GitHub</a>  
-  <sub>Practice with graph algorithms, rankings, and testable design.</sub>
+**Software Engineering / Data Science Intern — AltaScient (part-time)**  
+_Python, PyTorch, SQL, R, FastAPI, Docker_  
+- Prototyping a neural-network-driven risk analytics pipeline with reproducible experiments and CI.  
+- Building data ingestion + feature pipelines; packaging inference as an API for downstream apps.
 
-- **MineSweeper (C++)** — <a href="https://github.com/laba-ehehe/COP3503C-MineSweeper">GitHub</a>  
-  <sub>Classic game implementation emphasizing data structures and runtime.</sub>
+**Product Management Intern — Nami Technology (Jun–Aug 2024)**  
+_Flask, scikit-learn, pandas, NoSQL, Figma_  
+- Built an NLP conversation-analysis tool with a REST API and dashboard; adopted by enterprise clients.  
+- Audited client software, ran usability tests, and shipped UI/UX improvements that lifted onboarding speed and user satisfaction.  
+- Maintained a product backlog, wrote user stories, and delivered in two-week sprints.
 
-- **COP3502C Final Project (Python)** — <a href="https://github.com/laba-ehehe/COP3502C-Final-Project">GitHub</a>  
-  <sub>Intro CS capstone: problem decomposition, testing, and style.</sub>
+<!-- Add any previous internships/externships here -->
 
 ---
 
 ## 🛠️ Tech I use
 **Languages:** Python · C++ · JavaScript/TypeScript · SQL · MATLAB  
-**Frameworks/Libraries:** React · Node/Express · Flask · scikit-learn · Pandas · NumPy  
-**Tools:** Git/GitHub Actions · MongoDB · Arduino/Raspberry Pi · Figma
+**Frameworks/Libraries:** React · Node/Express · Flask · scikit-learn · PyTorch · pandas · NumPy  
+**Tools:** Git/GitHub · Docker · MongoDB · Firebase · Figma · Arduino/Raspberry Pi
 
 ---
 
-## 🗂 More repositories
-- SET 2023 (SASE engineering team; CV/robotics bits) — <a href="https://github.com/laba-ehehe/SET2023">GitHub</a>  
-- Personal portfolio site (fork/customized) — <a href="https://github.com/laba-ehehe/Lan-Anh-Do-Portfolio">GitHub</a>  
-- JPMC Forage SWE tasks — <a href="https://github.com/laba-ehehe/forage-jpmc-swe-task-1">Task 1</a> · <a href="https://github.com/laba-ehehe/forage-jpmc-swe-task-2">Task 2</a> · <a href="https://github.com/laba-ehehe/forage-jpmc-swe-task-3">Task 3</a>  
-- Whack-a-Mole (template fork) — <a href="https://github.com/laba-ehehe/whackamole-template">GitHub</a>  
-- Sudoku Project (template) — <a href="https://github.com/laba-ehehe/Sudoku-Project">GitHub</a>  
-- teehee (Python sandbox) — <a href="https://github.com/laba-ehehe/teehee">GitHub</a>  
-- project2 (course work) — <a href="https://github.com/laba-ehehe/project2">GitHub</a>  
-- Faker (contribution fork) — <a href="https://github.com/laba-ehehe/faker">GitHub</a>
+## 📈 What I’m up to
+- TA/peer-teaching: helping students debug, whiteboard DSA, and build confidence.  
+- Shipping ML-backed features from scrappy prototypes → usable tools.  
+- Always down to pair on a bug or brainstorm ideas—DM me on LinkedIn!
 
 ---
+
+## 📚 More projects
+- **Moodify** — React + Express + Spotify OAuth/PKCE · 🔗 https://github.com/laba-ehehe/**TODO-moodify**  
+- **Taiyaki Cards** — MERN study app with spaced repetition · 🔗 https://github.com/laba-ehehe/**TODO-taiyaki-cards**  
+- **Productivity Powerhouse** — Arduino Pomodoro w/ hardware integration · 🔗 https://github.com/laba-ehehe/**TODO-productivity-powerhouse**
+
+<!-- Optional GitHub stats (uncomment if you like the look) -->
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laba-ehehe&layout=compact)
+-->
+
 
 ## 📈 What I’m up to
 - TA/peer-teaching: debugging, whiteboarding DSA, and helping students ship clean code  
