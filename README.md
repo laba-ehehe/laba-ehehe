@@ -79,14 +79,3 @@ I’m a UF Computer Engineering + Economics student who bridges **PM ↔ SWE**: 
 
 - **Research Intern — Fudan ISTBI** *(Python · LFP)*  
   - Processed neural signals and explored Parkinson’s biomarkers; produced analysis notebooks and concise summaries for the research team.
-
-## 📊 Analytics
-<!-- Overall stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laba-ehehe&show_icons=true&hide_border=true&rank_icon=percentile)
-
-<!-- Top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laba-ehehe&layout=compact&hide_border=true)
-
-<!-- Streak (optional) -->
-![GitHub Streak](https://streak-stats.demolab.com?user=laba-ehehe&hide_border=true)
-
