@@ -2,7 +2,7 @@
 <h1>Hi there — I’m Lan Anh! 👋</h1>
 
 <!-- Right-side avatar (optional: add assets/pixel-lan-anh.png) -->
-<img align="right" src="pixel-lan-anh.png" width="175" alt="Lan Anh pixel avatar" />
+<img align="right" src="avatar.png" width="175" alt="Lan Anh pixel avatar" />
 
 I’m a UF Computer Engineering + Economics student who builds ML-powered, full-stack, and systems projects.
 
