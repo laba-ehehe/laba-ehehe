@@ -12,7 +12,7 @@ I’m a UF Computer Engineering + Economics student who bridges **PM ↔ SWE**: 
 - Certificates: AI Fundamentals & Applications · Project Management  
 - Strongest languages: Python · C++ · JavaScript/TypeScript · SQL · Assembly
 - I enjoy scoping features, writing PRDs, prototyping fast, and partnering with designers/engineers.  
-- Fun fact: matcha latte/boba addict 🧋 and learning crochet 🧶
+- Fun fact: matcha latte/boba addict 🧋 and learning crochet 🧶 (and yes, my hair used to be black but it's red now 🔥)
 
 ## 🌸 Contact me
 <p align="left">
