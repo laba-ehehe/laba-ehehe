@@ -1,7 +1,7 @@
 <!-- Profile README for Lan Anh Do -->
 <h1>Hi there — I’m Lan Anh! 👋</h1>
 
-<img align="right" src="assets/avatar.png" width="175" alt="Lan Anh pixel avatar" />
+<img align="right" src="avatar.png" width="300" alt="Lan Anh pixel avatar" />
 
 I’m a UF Computer Engineering + Economics student who bridges **PM ↔ SWE**: I turn fuzzy problems into clear **PRDs/MVPs**, then build the backend/front-end/ML pieces, instrument metrics, and iterate with quick experiments.
 
