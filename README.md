@@ -10,9 +10,9 @@ I’m a UF Computer Engineering + Economics student who bridges **PM ↔ SWE**: 
 ## 🌸 Get to know me!
 - Computer Engineering (B.S.) + Economics (B.A.) @ University of Florida  
 - Certificates: AI Fundamentals & Applications · Project Management  
-- Strongest languages: Python · C++ · JavaScript/TypeScript  
-- I enjoy scoping features, writing PRDs, prototyping fast, and partnering with design/eng.  
-- Fun fact: matcha latte addict 🧋 and learning crochet 🧶
+- Strongest languages: Python · C++ · JavaScript/TypeScript · SQL · Assembly
+- I enjoy scoping features, writing PRDs, prototyping fast, and partnering with designers/engineers.  
+- Fun fact: matcha latte/boba addict 🧋 and learning crochet 🧶
 
 ## 🌸 Contact me
 <a href="https://www.linkedin.com/in/lananhnguyendo/">
@@ -52,7 +52,7 @@ I’m a UF Computer Engineering + Economics student who bridges **PM ↔ SWE**: 
 - **Satellite Ship Detection**: PCA/Isomap + RF/SVM | **[GitHub Repo](https://github.com/laba-ehehe/ship-detection)**  
   - Dimensionality reduction for compact features, classic models for robust accuracy; evaluated with held-out tests.
 
-- **Image Classification**: PyTorch | **[GitHub Repo](https://github.com/laba-ehehe/ann-flower-classification-car-detection)**  
+- **Image Classification**: Tensorflow | **[GitHub Repo](https://github.com/laba-ehehe/ann-flower-classification-car-detection)**  
   - Flower & car datasets; ANN/CNN baseline improved via augmentation/regularization; tracked lift and confusion matrices.
 
 ---
