@@ -12,9 +12,9 @@ ML-powered products, full-stack web, and embedded systems.
 
 ## 🌸 Get to know me!
 - **UF**: Computer Engineering (B.S.) + Economics (B.A.) · Certificates in **AI Fundamentals & Applications** and **Project Management**
-- **Languages**: Python · C++ · JavaScript/TypeScript · SQL · Assembly
+- **Languages**: Python · C++ · JavaScript/TypeScript · SQL · MATLAB
 - **Interests**: ML for products · full-stack (React/Express) · embedded/systems
-- **Fun**: matcha latte/boba enthusiast 🧋 · learning crochet 🧶
+- **Fun**: matcha latte enthusiast 🧋 · learning crochet 🧶
 
 ---
 
@@ -30,53 +30,58 @@ ML-powered products, full-stack web, and embedded systems.
 
 ## ⭐ Top projects
 
-- **ChompCourse** — Full-stack UF degree planner (Flask · React · Firebase · Expo)  
-  🔗 _Repo:_ https://github.com/laba-ehehe/**TODO-ChompCourse** · _Demo:_ **TODO**  
-  <sub>Generates semester-by-semester roadmaps using catalog data and prerequisite graphs; helps students plan faster with fewer mistakes.</sub>
+- **ChompCourse** — Full-stack UF degree planner *(Flask · React · Firebase · Expo)*  
+  🔗 _Repo:_ https://github.com/laba-ehehe/**chompcourse** (or your actual slug) · _Demo:_ **TODO**  
+  <sub>Generates personalized, semester-by-semester roadmaps for students; tested with **100+ users**. Automates UF catalog scraping (Selenium) to keep **1,000+ courses** fresh and builds prerequisite graphs to reduce planning mistakes.</sub>
 
-- **SET Dumpy** — CV + SLAM trash-detection robot (Python/OpenCV · Arduino · LiDAR)  
-  🔗 _Repo:_ https://github.com/laba-ehehe/**TODO-dumpy-robot** · _Video:_ **TODO**  
-  <sub>Mobile robot that locates and collects debris using object detection and mapping; tuned control loops and sensor fusion for reliability.</sub>
+- **SET Dumpy** — CV + SLAM trash-detection robot *(Python/OpenCV · Arduino · LiDAR)*  
+  🔗 _Repo:_ https://github.com/laba-ehehe/**set-dumpy** (or your actual slug) · _Video:_ **TODO**  
+  <sub>Worked with a **27-person** team to design a mobile robot for debris detection and pickup; achieved **90%+** detection accuracy and tuned actuation for **~88%** grasp success in real-world tests.</sub>
 
-- **Copycat** — Chrome extension for job-app link management (JS/Manifest V3)  
-  🔗 _Repo:_ https://github.com/laba-ehehe/**copycat** · _Chrome store (optional):_ **TODO**  
-  <sub>One-click capture of postings, notes, and deadlines to keep recruiting organized.</sub>
+- **Copycat** — Chrome extension for job-app link management *(JS / Manifest V3)*  
+  🔗 _Repo:_ https://github.com/laba-ehehe/copycat  
+  <sub>One-click capture of postings, notes, and deadlines—used by **50+** active users. Stores data with Chrome Storage API and simple, friendly UI.</sub>
 
-- **Erica Virtual Human** — NLP + deepfake-synced video responses (Python · Flask · FFmpeg)  
-  🔗 _Repo:_ https://github.com/laba-ehehe/**TODO-erica-virtual-human**  
-  <sub>Prototype virtual human that takes text/audio input, generates a response, and syncs it to a talking-head video for more natural interactions.</sub>
+- **Erica Virtual Human** — NLP + lip-synced video tutoring *(Dialogflow · Python/Flask · FFmpeg)*  
+  🔗 _Repo:_ https://github.com/laba-ehehe/**erica-virtual-human** (or your actual slug)  
+  <sub>Virtual-human chatbot that teaches diabetes concepts; integrates Dialogflow for intent handling and deepfake lip-sync for natural delivery—improved response “accuracy/fit” ratings by **~25%** in pilot testing.</sub>
 
 ### 🧠 Selected ML projects
-- **Supermarket Sales Analytics** — regression + classification (scikit-learn, pandas)  
-  🔗 _Repo:_ https://github.com/laba-ehehe/**TODO-supermarket-ml**  
-  <sub>End-to-end workflow: cleaning, EDA, feature engineering, model selection, metrics, and a short paper in IEEE format.</sub>
+- **Flower Classification & Car Detection** *(TensorFlow/Keras)*  
+  <sub>Built a flower classifier (~**88%** accuracy) and a car-detection CNN with bounding boxes; used augmentation (ImageDataGenerator), callbacks, and tracked MAE/F1 with clear training curves.</sub>
 
-- **Risk Analytics Pipeline (Prototype)** — time-series & anomaly detection (PyTorch, NumPy)  
-  🔗 _Repo:_ https://github.com/laba-ehehe/**TODO-risk-analytics**  
-  <sub>Builds a modular training/inference pipeline for risk scoring; emphasizes reproducible experiments and clear evaluation.</sub>
+- **Ship Detection in Satellite Imagery** *(PCA/Isomap → RF & SVM)*  
+  <sub>Engineered a DR-first pipeline (PCA, Isomap) for compact features, then trained RF/SVM classifiers; reached **~92%** accuracy on held-out sets.</sub>
 
-- **Image Classification (CNN)** — custom dataset baseline → improved model (PyTorch)  
-  🔗 _Repo:_ https://github.com/laba-ehehe/**TODO-image-cnn**  
-  <sub>Starts with a simple CNN baseline, adds data augmentation and regularization, and tracks gains with clean ablation notes.</sub>
+- **Supermarket Sales — Regression & Classification** *(scikit-learn, pandas)*  
+  <sub>End-to-end data prep (encoding, scaling, missing data), grid-searched models (Linear Regression, Random Forest, Decision Trees, SVM); achieved **R² ≈ 0.92** on regression targets and solid classification metrics.</sub>
 
-> Want more? See **More Projects** below for extra repos and class builds.
+> Want more? See **More projects** below for extra repos and class builds.
 
 ---
 
 ## 💼 Internship experience
 
-**Software Engineering / Data Science Intern — AltaScient (part-time)**  
-_Python, PyTorch, SQL, R, FastAPI, Docker_  
+**Software Engineering / Data Science Intern — AltaScient (part-time, remote)**  
+_Python · PyTorch · SQL · R · FastAPI · Docker_  
 - Prototyping a neural-network-driven risk analytics pipeline with reproducible experiments and CI.  
-- Building data ingestion + feature pipelines; packaging inference as an API for downstream apps.
+- Building ingestion/feature pipelines and packaging inference behind an API for downstream apps.
 
-**Product Management Intern — Nami Technology (Jun–Aug 2024)**  
-_Flask, scikit-learn, pandas, NoSQL, Figma_  
-- Built an NLP conversation-analysis tool with a REST API and dashboard; adopted by enterprise clients.  
-- Audited client software, ran usability tests, and shipped UI/UX improvements that lifted onboarding speed and user satisfaction.  
-- Maintained a product backlog, wrote user stories, and delivered in two-week sprints.
+**Product Management Intern — MoMo (M_Service)**  
+_Bazel · Jenkins · BigQuery/SQL · Jira/Confluence_  
+- Led an automation tool for the digital-lending platform (**40M+** users), enforced Bazel builds and CI/CD with Jenkins; cut lending-rule deployment time by **~80%** and reduced manual errors by **~70%**.  
+- Prioritized **5** high-impact features from data insights, reducing churn **~12%** and speeding delivery **~15%**.  
+- Coordinated weekly sprint rituals and launched mobile-web parity features across **3** platforms.
 
-<!-- Add any previous internships/externships here -->
+**Research Intern — Fudan University, ISTBI (Neuroengineering)**  
+_Python · signal processing (LFP) · biomarkers_  
+- Processed **50+** LFP recordings to identify Parkinson’s biomarkers; beta-band/coherence features supported closed-loop neuromodulation at **~85%** accuracy.  
+- Analyzed stimulation-response dynamics across DBS vs. non-DBS trials to inform future clinical studies.
+
+**Product Management Intern — Nami Technology**  
+_Flask · scikit-learn · pandas · NoSQL · Figma_  
+- Shipped an NLP conversation-analysis tool with REST API + dashboard; adopted by **3** enterprise clients.  
+- Found **10+** critical UX issues via research/usability tests, trimming onboarding time **~14%** and lifting CSAT **~18%**.
 
 ---
 
@@ -95,15 +100,15 @@ _Flask, scikit-learn, pandas, NoSQL, Figma_
 ---
 
 ## 📚 More projects
-- **Moodify** — React + Express + Spotify OAuth/PKCE · 🔗 https://github.com/laba-ehehe/**TODO-moodify**  
-- **Taiyaki Cards** — MERN study app with spaced repetition · 🔗 https://github.com/laba-ehehe/**TODO-taiyaki-cards**  
-- **Productivity Powerhouse** — Arduino Pomodoro w/ hardware integration · 🔗 https://github.com/laba-ehehe/**TODO-productivity-powerhouse**
+- **Minesweeper (C++/SFML)** — full game with recursive reveal, leaderboard, pause/debug modes.  
+- **Productivity Powerhouse (Arduino)** — tactile Pomodoro with sensors/actuators and 3D-printed housing.  
+- **Taiyaki Cards (MERN)** — spaced-repetition flashcards with tags, search, and analytics.  
+- **Moodify (React + Express + Spotify OAuth/PKCE)** — mood-aware playlists and audio-feature visuals.
 
 <!-- Optional GitHub stats (uncomment if you like the look) -->
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laba-ehehe&layout=compact)
 -->
-
 
 ## 📈 What I’m up to
 - TA/peer-teaching: debugging, whiteboarding DSA, and helping students ship clean code  
