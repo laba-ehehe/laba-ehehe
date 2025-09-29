@@ -43,13 +43,13 @@ I’m a UF Computer Engineering + Economics student who bridges **PM ↔ SWE**: 
 ---
 
 ## 🌸 Top projects
-- **ChompCourse**: TypeScript/JS + Flask/React + Firebase/Expo | **[GitHub Repo](https://github.com/katieboetig/ChompCourse)**  
+- **ChompCourse**: JavaScript + Flask/React + Firebase/Expo + HTML/CSS | **[GitHub Repo](https://github.com/katieboetig/ChompCourse)**  
   - Full-stack degree planner with catalog scraping + prereq graphs. I scoped the MVP, helped define data models/flows, and shipped a student-tested pilot.
 
 - **SET Dumpy**: Python/OpenCV + Arduino + LiDAR/SLAM | **[GitHub Repo](https://github.com/AlanWang611/SET2023)**  
   - Mobile robot for debris detection/pickup. I worked on CV pipeline integration, sensor/actuation bring-up, and acceptance tests for reliable field performance.
 
-- **Copycat**: JavaScript (MV3) | **[GitHub Repo](https://github.com/laba-ehehe/copycat)**  
+- **Copycat**: HTML/CSS/JavaScript (MV3) | **[GitHub Repo](https://github.com/laba-ehehe/copycat)**  
   - Chrome extension that captures job posts, notes, and deadlines. I wrote the PRD, built the MV3 service worker + storage, and designed a minimal UI to speed workflows.
 
 - **Erica Virtual Human**: Python/Flask + FFmpeg | **[GitHub Repo](https://github.com/laba-ehehe/Erica-Virtual-Human)**  
