@@ -68,8 +68,6 @@ I’m a UF Computer Engineering + Economics student who bridges **PM ↔ SWE**: 
 ---
 
 ## 💼 Internship experience
-- **SWE/Data Science Intern — AltaScient** *(Python · PyTorch · SQL · FastAPI · Docker)*  
-  - Prototyped a risk-analytics NN and exposed inference via FastAPI; built data/feature pipelines and experiment logs, and defined success metrics for iterations.
 
 - **PM Intern — MoMo (M_Service)** *(Bazel · Jenkins · SQL · Jira)*  
   - Wrote PRDs and prioritized lending-platform features using data insights; streamlined CI/CD with Bazel + Jenkins and tracked delivery/impact with sprint metrics.
