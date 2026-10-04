@@ -12,22 +12,12 @@ A **Computer Engineering + Economics** student at UF (class of 2027, GPA 3.94) w
 
 <br clear="right"/>
 
-<table align="center">
-<tr>
-<td align="center"><b>3.94</b><br><sub>GPA @ UF</sub></td>
-<td align="center"><b>−97%</b><br><sub>investigation time at Intuit</sub></td>
-<td align="center"><b>1st 🏆</b><br><sub>ShellHacks + AWS + Tiger Data</sub></td>
-<td align="center"><b>100+</b><br><sub>students taught</sub></td>
-<td align="center"><b>14</b><br><sub>fellowship projects delivered</sub></td>
-</tr>
-</table>
-
 ---
 
 ## 🌸 Get to know me
 - B.S. Computer Engineering + B.A. Economics @ University of Florida (Aug 2023 – May 2027)
 - Certificates: Engineering Project Management · Econometric & Data Analysis
-- Professional tech yapper :D
+- Professional yapper :D
 - Fun facts: matcha latte/boba addict 🧋, learning crochet 🧶, and yes, my hair used to be black but it's red now 🔥
 
 ## 💼 Experience
