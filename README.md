@@ -1,21 +1,64 @@
 <!-- Profile README for Lan Anh Do -->
-<h1>Hi friends — I’m Lan Anh! 👋</h1>
+<h1>Hi friends, I'm Lan Anh! 👋</h1>
 
 <img align="right" src="avatar.png" width="300" alt="Lan Anh pixel avatar" />
 
-I’m a UF Computer Engineering + Economics student who bridges **PM ↔ SWE**: I turn fuzzy problems into clear **PRDs/MVPs**, then build the backend/front-end/ML pieces, instrument metrics, and iterate with quick experiments :DDD
+A **Computer Engineering + Economics** student at UF (class of 2027, GPA 3.94) who loves where **technology, systems & people** collide. I believe the best technology in the world is useless if nobody uses it and nobody understands why it matters.
+
+🌐 **Portfolio:** [laba-ehehe.github.io](https://laba-ehehe.github.io)
+📝 **Status:** open to **internships & new grad opportunities**
 
 ---
 
-## 🌸 Get to know me!
-- Computer Engineering (B.S.) + Economics (B.A.) @ University of Florida  
-- Certificates: AI Fundamentals & Applications · Project Management  
-- Strongest languages: Python · C++ · JavaScript/TypeScript · SQL · Assembly
-- I enjoy scoping features, writing PRDs, prototyping fast, and partnering with designers/engineers.  
-- Fun fact: matcha latte/boba addict 🧋 and learning crochet 🧶 (and yes, my hair used to be black but it's red now 🔥)
+## 🌸 Get to know me
+- B.S. Computer Engineering + B.A. Economics @ University of Florida (Aug 2023 – May 2027)
+- Certificates: Engineering Project Management · Econometric & Data Analysis
+- Professional tech yapper :D
+- Fun facts: matcha latte/boba addict 🧋, learning crochet 🧶, and yes, my hair used to be black but it's red now 🔥
+
+## 💼 Experience
+- **Security Software Engineering Intern, Intuit** (May – Aug 2026)
+  Built an AI-powered identity lookup platform (MCP, Python, FastAPI, Spring Boot) for 20+ fraud investigators, cutting investigation time by **97%** and saving 200+ hours weekly. Also built an account-linking pipeline (Numaflow, EventBus, DynamoDB, Docker) that processes 5,000+ weekly sanctions alerts.
+- **Teaching Assistant, University of Florida** (Aug 2024 – Present)
+  Data Structures & Algorithms, Digital Logic, Computer Organization, Programming Fundamentals. Instructed 100+ students, boosted exam averages by **22%**, and developed course content for 1200+ students.
+- **Software Engineering Fellow, Uber** (Feb – Aug 2025)
+  Selected for the Uber Career Prep Fellowship (2.3% acceptance rate); solved 70+ technical interview problems 1:1 with Uber engineers.
+- **Product Management Intern, M_Service (MoMo)** (May – Aug 2025)
+  Built an automation tool on MoMo's lending platform (40M+ users) with Bazel and Jenkins, cutting lending rule deployment by **80%** and manual errors by 70%.
+- **Product Management Intern, Nami Technology** (Jun – Aug 2024)
+  Shipped an NLP conversation-analysis tool (scikit-learn, pandas, Flask, DynamoDB) adopted by 3 enterprise clients, reducing ticket resolution time by **38%**.
+
+## 🚀 Projects
+- **transPEAKtation** 🏆 *1st Place, ShellHacks (+ Best Use of AWS, Best Use of Tiger Data)*
+  Event-aware routing platform (Python, FastAPI, Next.js, PyTorch, MongoDB, Tiger Data) that re-ranks routes before congestion forms. A 372K-parameter transformer cut forecast error by 33%, and a PPO load-balancer cut trip time up to 59% in a SUMO simulation. **[Demo video](https://youtu.be/maBHLULKMVc)** · **[GitHub](https://github.com/No-Way-Mo/transpeaktation)**
+- **ChompCourse** *(Flask, React, Firebase, Expo, Selenium)*
+  Personalized semester-by-semester course roadmaps for UF students, tested with 100+ users. **[GitHub](https://github.com/katieboetig/ChompCourse)**
+- **SET Dumpy** *(Python, OpenCV, Arduino, LiDAR)*
+  Trash-detecting robot built with a 27-person team: 90% navigation accuracy, 88% grasp success. **[GitHub](https://github.com/laba-ehehe/SET2023)**
+
+**Side quests:** [Moodify](https://github.com/laba-ehehe/moodify) · [Ship Detection](https://github.com/laba-ehehe/ship-detection) · [Flower Classification & Car Detection](https://github.com/laba-ehehe/ann-flower-classification-car-detection) · [Supermarket Sales Analytics](https://github.com/laba-ehehe/supermarket-sales-analytics)
+
+## 👑 Leadership
+- **Director of Professional Development, UF Product Space** (Jun 2025 – Present): ran 6 workshops for 100+ members and a product fellowship matching 40+ fellows with 6 local startups (14 projects delivered).
+- **Director of Awards, UF WiNGHacks** (Jul 2024 – Present): helped run UF's first hackathon focused on uplifting women, nonbinary people and gender minorities (120+ hackers, $10,000+ in prizes, 30+ judges).
+
+---
+
+## 🛠️ Skills
+**Languages:** Python · C++ · Java · JavaScript · TypeScript · Swift · SQL · R · MATLAB · SystemVerilog · Assembly · HTML · CSS  
+**Frameworks:** FastAPI · Flask · Spring · React · React Native · Next.js · Express.js · Node.js · Bootstrap · SwiftUI  
+**Developer Tools:** Git · Docker · Kubernetes · Kafka · MySQL · AWS · GCP · Azure · MongoDB · Jenkins · Bazel · Jira · Figma · Tiger Data · DigitalOcean  
+**AI / ML:** Model Context Protocol (MCP) · OpenCV · PyTorch · TensorFlow · Scikit-learn · NumPy · pandas · Claude Code
+
+---
 
 ## 🌸 Contact me
 <p align="left">
+  <a href="https://laba-ehehe.github.io" aria-label="Portfolio">
+    <img alt="Portfolio"
+         src="https://img.shields.io/badge/PORTFOLIO-8A5CF6?style=for-the-badge&logo=githubpages&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lananhnguyendo/" aria-label="LinkedIn">
     <img alt="LinkedIn"
          src="https://img.shields.io/badge/LINKED%20IN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -25,55 +68,6 @@ I’m a UF Computer Engineering + Economics student who bridges **PM ↔ SWE**: 
     <img alt="Email"
          src="https://img.shields.io/badge/EMAIL-FF69B4?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  &nbsp;&nbsp;
-  <a href="tel:+15618513967" aria-label="Call">
-    <img alt="Call"
-         src="https://img.shields.io/badge/CALL-2E8B57?style=for-the-badge&logo=phone&logoColor=white">
-  </a>
 </p>
 
----
-
-## 🛠️ Skills
-**Product & Data:** Agile/Scrum · PRDs · product roadmapping · user research · A/B testing · SQL · analytics dashboards (Mixpanel)  
-**Programming Languages:** Python · C++ · Java · JavaScript/TypeScript · SQL · R · MATLAB · VHDL · Assembly · HTML/css
-**Frameworks/Libraries:** React · Node/Express · Flask · scikit-learn · PyTorch · pandas · NumPy  
-**Tools:** Git/GitHub · Docker · Kubernetes · Firebase · MongoDB · Jenkins · Bazel · JIRA · Power BI · Mixpanel · Google Analytics · Figma · Jira/Confluence · Arduino/Raspberry Pi
-
----
-
-## 🌸 Top projects
-- **ChompCourse**: JavaScript + Flask/React + Firebase/Expo + HTML/CSS | **[GitHub Repo](https://github.com/katieboetig/ChompCourse)**  
-  - Full-stack degree planner with catalog scraping + prereq graphs. I scoped the MVP, helped define data models/flows, and shipped a student-tested pilot.
-
-- **SET Dumpy**: Python/OpenCV + Arduino + LiDAR/SLAM | **[GitHub Repo](https://github.com/AlanWang611/SET2023)**  
-  - Mobile robot for debris detection/pickup. I worked on CV pipeline integration, sensor/actuation bring-up, and acceptance tests for reliable field performance.
-
-- **Copycat**: HTML/CSS/JavaScript (MV3) | **[GitHub Repo](https://github.com/laba-ehehe/copycat)**  
-  - Chrome extension that captures job posts, notes, and deadlines. I wrote the PRD, built the MV3 service worker + storage, and designed a minimal UI to speed workflows.
-
-- **Erica Virtual Human**: Python/Flask + FFmpeg | **[GitHub Repo](https://github.com/laba-ehehe/Erica-Virtual-Human)**  
-  - Conversational tutoring with lip-synced video. I designed the interaction flow, implemented the API + lip-sync pipeline, and ran quick UX tests with students.
-
-## 🧠 ML projects
-- **Supermarket Sales Analytics**: scikit-learn + pandas | **[GitHub Repo](https://github.com/laba-ehehe/supermarket-sales-analytics)**  
-  - End-to-end pipeline: EDA → feature engineering → grid-searched baselines; clear metrics and README.
-
-- **Satellite Ship Detection**: PCA/Isomap + RF/SVM | **[GitHub Repo](https://github.com/laba-ehehe/ship-detection)**  
-  - Dimensionality reduction for compact features, classic models for robust accuracy; evaluated with held-out tests.
-
-- **Image Classification**: Tensorflow | **[GitHub Repo](https://github.com/laba-ehehe/ann-flower-classification-car-detection)**  
-  - Flower & car datasets; ANN/CNN baseline improved via augmentation/regularization; tracked lift and confusion matrices.
-
----
-
-## 💼 Internship experience
-
-- **PM Intern — MoMo (M_Service)** *(Bazel · Jenkins · SQL · Jira)*  
-  - Wrote PRDs and prioritized lending-platform features using data insights; streamlined CI/CD with Bazel + Jenkins and tracked delivery/impact with sprint metrics.
-
-- **PM Intern — Nami Technology** *(Flask · scikit-learn · NoSQL · Figma)*  
-  - Shipped an NLP conversation-analysis tool and dashboard; led usability tests, synthesized feedback, and iterated UI/UX with measurable improvements.
-
-- **Research Intern — Fudan ISTBI** *(Python · LFP)*  
-  - Processed neural signals and explored Parkinson’s biomarkers; produced analysis notebooks and concise summaries for the research team.
+made by lan anh · ilysm ♥
